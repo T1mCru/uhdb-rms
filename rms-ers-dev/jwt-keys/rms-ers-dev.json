@@ -1,8 +1,12 @@
 {
-    "kty": "RSA",
-    "e": "AQAB",
-    "use": "sig",
-    "kid": "rms-ers-dev",
-    "alg": "RS512",
-    "n": "tVyMdvzG8CPxEIdd5h8TFx767i8i1zc7xoV6yQjRe9JacL-BwKSVZxH3vgxDid0InIJb6qt7qj2Os-4BmtTQ3PckwH8Pi2xfO4FU2tVbMfTg75vjGq-d6gxBGO1KOzeIC4a185OuOaWcHGbwpBKrX2sFect8RiBINp80GEDDExZsouynWGrAYiSubwmJcqzXHG03LAqZ0yUDI3y9PC8GaE3thyczA7W8Z77mYx6WNOfyYHhemUlilCvfn1lyVvVzdEd88kwcBt_SnkEQjKTu3_l8S3J_zf8mdv3YKBrixlOu06sbMJa-fT6LeW5yCVjg6hCkDP1Dvyb8BAKYU5FM5f_8551TyAtCAHqLgUBJgeLSt7ZxNZce9znBOi4dprEI5OZmh-AFokvY1idXrYfp0FE7Qh2rOLz5y_oMQKvGdxiFFosq1bxNtsnQXjWQ5tmIDeWpsH_EGUNuhb5Xti5Ep7IZhG_F31W6-VvRu5k0naAeyPCAfM-AS5MYDh79P9jATxTcIcI6SKphJfSO2CMBY1TK64iLK9TJrhWLam8a-_RbxQHhK9PPi1x7ksENUZDom5T_u42BeH4a4jkZFsftWowTTkUyhXyPY0tFAirCcbI4FJc7buwGiIG0g5-tkYAXfnOCnkGhU7twRmGhsMVJe-aV_jEtpVLM0xtUNOOg4Hk"
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "rms-ers-dev",
+      "alg": "RS512",
+      "n": "tVyMdvzG8CPxEIdd5h8TFx767i8i1zc7xoV6yQjRe9JacL-BwKSVZxH3vgxDid0InIJb6qt7qj2Os-4BmtTQ3PckwH8Pi2xfO4FU2tVbMfTg75vjGq-d6gxBGO1KOzeIC4a185OuOaWcHGbwpBKrX2sFect8RiBINp80GEDDExZsouynWGrAYiSubwmJcqzXHG03LAqZ0yUDI3y9PC8GaE3thyczA7W8Z77mYx6WNOfyYHhemUlilCvfn1lyVvVzdEd88kwcBt_SnkEQjKTu3_l8S3J_zf8mdv3YKBrixlOu06sbMJa-fT6LeW5yCVjg6hCkDP1Dvyb8BAKYU5FM5f_8551TyAtCAHqLgUBJgeLSt7ZxNZce9znBOi4dprEI5OZmh-AFokvY1idXrYfp0FE7Qh2rOLz5y_oMQKvGdxiFFosq1bxNtsnQXjWQ5tmIDeWpsH_EGUNuhb5Xti5Ep7IZhG_F31W6-VvRu5k0naAeyPCAfM-AS5MYDh79P9jATxTcIcI6SKphJfSO2CMBY1TK64iLK9TJrhWLam8a-_RbxQHhK9PPi1x7ksENUZDom5T_u42BeH4a4jkZFsftWowTTkUyhXyPY0tFAirCcbI4FJc7buwGiIG0g5-tkYAXfnOCnkGhU7twRmGhsMVJe-aV_jEtpVLM0xtUNOOg4Hk"
+    }
+  ]
 }
